@@ -1,0 +1,14 @@
+C:\Users\Walter\Desktop\Practica #14 - U20230258 - JorgeLara - PDC\practica14-JorgeLaraR\bin\Debug\net7.0\practica14-JorgeLaraR.exe
+C:\Users\Walter\Desktop\Practica #14 - U20230258 - JorgeLara - PDC\practica14-JorgeLaraR\bin\Debug\net7.0\practica14-JorgeLaraR.deps.json
+C:\Users\Walter\Desktop\Practica #14 - U20230258 - JorgeLara - PDC\practica14-JorgeLaraR\bin\Debug\net7.0\practica14-JorgeLaraR.runtimeconfig.json
+C:\Users\Walter\Desktop\Practica #14 - U20230258 - JorgeLara - PDC\practica14-JorgeLaraR\bin\Debug\net7.0\practica14-JorgeLaraR.dll
+C:\Users\Walter\Desktop\Practica #14 - U20230258 - JorgeLara - PDC\practica14-JorgeLaraR\bin\Debug\net7.0\practica14-JorgeLaraR.pdb
+C:\Users\Walter\Desktop\Practica #14 - U20230258 - JorgeLara - PDC\practica14-JorgeLaraR\obj\Debug\net7.0\practica14-JorgeLaraR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Walter\Desktop\Practica #14 - U20230258 - JorgeLara - PDC\practica14-JorgeLaraR\obj\Debug\net7.0\practica14-JorgeLaraR.AssemblyInfoInputs.cache
+C:\Users\Walter\Desktop\Practica #14 - U20230258 - JorgeLara - PDC\practica14-JorgeLaraR\obj\Debug\net7.0\practica14-JorgeLaraR.AssemblyInfo.cs
+C:\Users\Walter\Desktop\Practica #14 - U20230258 - JorgeLara - PDC\practica14-JorgeLaraR\obj\Debug\net7.0\practica14-JorgeLaraR.csproj.CoreCompileInputs.cache
+C:\Users\Walter\Desktop\Practica #14 - U20230258 - JorgeLara - PDC\practica14-JorgeLaraR\obj\Debug\net7.0\practica14-JorgeLaraR.dll
+C:\Users\Walter\Desktop\Practica #14 - U20230258 - JorgeLara - PDC\practica14-JorgeLaraR\obj\Debug\net7.0\refint\practica14-JorgeLaraR.dll
+C:\Users\Walter\Desktop\Practica #14 - U20230258 - JorgeLara - PDC\practica14-JorgeLaraR\obj\Debug\net7.0\practica14-JorgeLaraR.pdb
+C:\Users\Walter\Desktop\Practica #14 - U20230258 - JorgeLara - PDC\practica14-JorgeLaraR\obj\Debug\net7.0\practica14-JorgeLaraR.genruntimeconfig.cache
+C:\Users\Walter\Desktop\Practica #14 - U20230258 - JorgeLara - PDC\practica14-JorgeLaraR\obj\Debug\net7.0\ref\practica14-JorgeLaraR.dll
